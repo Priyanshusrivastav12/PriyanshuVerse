@@ -3,7 +3,7 @@ import html from "../../public/html.png";
 import css from "../../public/css.jpg";
 import reactjs from "../../public/reactjs.png";
 import javascript from "../../public/javascript.png";
-import oracle from "../../public/oracle.png";
+import python from "../../public/python.webp";
 import nodejs from "../../public/node.png";
 import express from "../../public/express.png";
 function Experiance() {
@@ -29,11 +29,6 @@ function Experiance() {
       name: "JavaScript",
     },
     {
-      id: 5,
-      logo: oracle,
-      name: "Oracle",
-    },
-    {
       id: 6,
       logo: nodejs,
       name: "NodeJs",
@@ -43,6 +38,11 @@ function Experiance() {
       logo: express,
       name: "ExpressJs",
     },
+    {
+    id: 5,
+    logo: python,
+    name: "Python",
+  },
   ];
   return (
     <div

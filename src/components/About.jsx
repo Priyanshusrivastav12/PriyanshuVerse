@@ -40,7 +40,7 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-      Excellence with 350+ coding challenges successfully tackled across multiple programming platforms | Organized Skill SpringBoot, a 3-day bootcamp focused on OpenCV design at KIET Group of Institutions |  Earned a 3-star rating in problem solving on HackerRank.
+      Excellence with 350+ coding challenges successfully tackled across multiple programming platforms | Organized Skill Spring, a 3-day bootcamp focused on OpenCV design at KIET Group of Institutions |  Earned a 3-star rating in problem solving on HackerRank.
 
         </span>
         <br />
