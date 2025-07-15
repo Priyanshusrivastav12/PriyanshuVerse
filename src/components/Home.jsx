@@ -33,7 +33,7 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Welcome to my digital space! I'm Priyanshu Srivastav, a tech enthusiast on a mission to create impactful solutions using AI and modern web technologies. I am pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence from KIET Group of Institutions. Currently, I have an overall CGPA of 7.6 in my B.Tech.
+              Welcome to my digital space! I'm Priyanshu Srivastav, a tech enthusiast on a mission to create impactful solutions using AI and modern web technologies. I am pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence from KIET Group of Institutions. Currently, I have an overall CGPA of 7.2 in my B.Tech(4th sem).
               <br /><br />
               I have expertise in various technologies, including HTML, Tailwind CSS, JavaScript, React, Node.js, Express.js, MongoDB, and Framer Motion, along with proficiency in Data Structures and Algorithms (DSA).
             </p>
@@ -89,9 +89,9 @@ function Home() {
               </a>
 
               {/* View Resume Button */}
-              <a href="https://drive.google.com/file/d/17lggs1cWOs06a5_id4dO7yA160LQ60OW/view?usp=sharing" target="_blank">
+              <a href="https://drive.google.com/file/d/1m6tD9CYIz7YS2CP11ax5IVM4pcyHB2Pq/view?usp=sharing" target="_blank">
                 <button className="px-6 py-2 bg-gray-800 text-white rounded-lg shadow-md hover:bg-gray-900 transition duration-300">
-                  View Resume
+                  View Resume 
                 </button>
               </a>
             </div>

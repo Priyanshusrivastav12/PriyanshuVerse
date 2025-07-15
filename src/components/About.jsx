@@ -16,7 +16,7 @@ function About() {
           Education & Training
         </h1>
         <span>
-        B.Tech | Computer Science & Engineering (AI) | KIET Group of Institutions, Ghaziabad(2024) | Currently in my 3rd year, honing my expertise in Artificial Intelligence and cutting-edge technologies.
+        B.Tech | Computer Science & Engineering (AI) | KIET Group of Institutions, Ghaziabad, Delhi NCR(2026) | Currently in my 3rd year, honing my expertise in Artificial Intelligence and cutting-edge technologies.
         </span>
         <br />
         <br />
@@ -29,18 +29,10 @@ function About() {
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          Professional Experience
-        </h1>
-        <span>
-          [Ex SDE intern at Oasis Infobyte], [1st July 2023 – 1st Aug 2023] [Built a Front-end Website,Using Html,Css,Java Script,ReactJS] | [Ex SDE Intern at Bharat Intern ], [1st April 2024 – 1st May 2024] [Built a Full Stack Website,Using React.JS, Node.JS, MongoDB,Express.JS].
-        </span>
-        <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
           Achievements & Awards
         </h1>
         <span>
-      Excellence with 350+ coding challenges successfully tackled across multiple programming platforms | Organized Skill Spring, a 3-day bootcamp focused on OpenCV design at KIET Group of Institutions |  Earned a 3-star rating in problem solving on HackerRank.
+        Tackled over 400+ coding problems and participated in 10+ coding contests across multiple programming platforms |  Strengthened database query skills by solving 50+ SQL problems | Earned a 2-star rating in problem solving on HackerRank.
 
         </span>
         <br />
